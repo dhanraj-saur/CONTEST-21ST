@@ -1,0 +1,98 @@
+* {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #808080;
+}
+
+.right .macbook {
+    position: absolute;
+    width: 129px;
+    height: 29px;
+    left: 52px;
+    top: 41px;
+
+}
+
+.control {
+    position: absolute;
+    width: 490px;
+    height: 38px;
+    left: 0px;
+    top: 36px;
+    border-radius: 10px;
+}
+
+.right .macbook-1 {
+    position: absolute;
+    width: 133px;
+    height: 29px;
+    left: 55px;
+    top: 152px
+}
+
+.control-1 {
+    position: absolute;
+    width: 490px;
+    height: 38px;
+    left: 0px;
+    top: 41px;
+    border: 2px solid #808080;
+    border-radius: 10px;
+}
+
+.right .macbook-2 {
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 55px;
+    top: 276px;
+}
+
+.control-2 {
+    position: absolute;
+    width: 490px;
+    height: 176px;
+    left: 0px;
+    top: 48px;
+    border: 2px solid #808080;
+    border-radius: 10px;
+}
+
+/* .right .macbook-3 {
+    position: absolute;
+    width: 289px;
+    height: 29px;
+    left: 61px;
+    top: 650px;
+}
+
+.control-3 {
+    position: absolute;
+    width: 490px;
+    height: 40px;
+    left: 68px;
+    top: 684px;
+    border: 2px solid #808080;
+    border-radius: 10px;
+} */
+
+.left .checkbox .check {
+
+    position: absolute;
+    width: 76px;
+    height: 29px;
+    left: 632px;
+    top: 713px;
+}
+
+.left-1 .btn .btn-1{
+    position: absolute;
+    width: 76px;
+    height: 29px;
+    left: 632px;
+    top: 713px;
+
+}
